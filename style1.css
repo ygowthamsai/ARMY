@@ -1,0 +1,6 @@
+body{ background-image: linear-gradient(to right top, #8a6520, #a0843b, #b6a557, #cac676, #dfe898);
+font-size:24px;}
+
+ol > li {
+    padding: 12px 0px;
+}
